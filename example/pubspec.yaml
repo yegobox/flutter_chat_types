@@ -4,5 +4,5 @@ environment:
 dependencies:
   flutter_chat_types:
     path: ..
-dev_dependencies:
-  flutter_lints: ^1.0.4
+# dev_dependencies:
+#   flutter_lints: ^1.0.4
